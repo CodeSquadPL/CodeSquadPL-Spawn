@@ -1,0 +1,8 @@
+name: CodeSquadPL-spawn
+version: '${project.version}'
+main: mc.codesquadpl.codesquadplspawn.main
+api-version: '1.20'
+authors: [CodeQuadPL - f4stbutterfly]
+commands:
+  spawn:
+  setspawn:

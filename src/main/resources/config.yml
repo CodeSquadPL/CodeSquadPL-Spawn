@@ -1,0 +1,5 @@
+no_permission: "&cYou don't have permission to do that!"
+spawn_x: 0.0
+spawn_y: 0.0
+spawn_z: 0.0
+change_spawn: "&aChanged spawn location to: {X} {Y} {Z}"
